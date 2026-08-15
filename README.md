@@ -85,7 +85,7 @@ By repeatedly updating the weights in the direction that reduces the loss, the m
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 The notebook follows these major steps:
 
@@ -102,7 +102,7 @@ The notebook follows these major steps:
 
 ---
 
-## ⚙️ Core Concepts Implemented
+## Core Concepts Implemented
 
 This project focuses on understanding:
 
@@ -119,7 +119,7 @@ This project focuses on understanding:
 
 ---
 
-## 🧮 Learning Mechanism
+## Learning Mechanism
 
 At a high level, the model follows:
 
@@ -143,7 +143,7 @@ The learning rate controls how large each parameter update should be.
 
 ---
 
-## 📈 Regression Task
+## Regression Task
 
 Since `LPA` is a continuous numerical value, this is treated as a **regression problem**.
 
@@ -157,7 +157,7 @@ The purpose is not to build a production-ready salary prediction system, but to 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * NumPy
@@ -168,7 +168,7 @@ The implementation focuses on the underlying calculations rather than using a hi
 
 ---
 
-## 💡 Key Learning Outcomes
+## Key Learning Outcomes
 
 Through this project, I gained a practical understanding of:
 
@@ -182,7 +182,7 @@ Through this project, I gained a practical understanding of:
 
 ---
 
-## 🔍 Why Implement Backpropagation From Scratch?
+## Why Implement Backpropagation From Scratch?
 
 Modern frameworks such as TensorFlow and PyTorch automatically handle gradient calculation and parameter updates.
 
@@ -192,7 +192,7 @@ This project therefore focuses on **conceptual understanding rather than framewo
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 backpropagation-regression-from-scratch/
@@ -203,7 +203,7 @@ backpropagation-regression-from-scratch/
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible extensions to this project include:
 
@@ -220,7 +220,7 @@ Possible extensions to this project include:
 
 ---
 
-## 🎓 Final Takeaway
+## Final Takeaway
 
 This project provides a **from-scratch implementation of the learning process behind neural networks for regression**.
 
